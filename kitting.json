@@ -13,7 +13,7 @@
     "Electrical\n\n\n\nF3",
     "Lumber\n\n\n\nF4",
     {
-      "x": 0.25
+      "x": 0.5
     },
     "Hardware\n\n\n\nF5",
     "MASTER GRID\n\n\n\nF6",
@@ -26,7 +26,7 @@
     },
     "Inquire\n\n\n\nF8",
     {
-      "x": 0.25
+      "x": 0.5
     },
     "Option\n\n\n\nF9",
     {
@@ -38,7 +38,7 @@
     },
     "Suspend",
     {
-      "x": 1.25,
+      "x": 1.5,
       "c": "#ffffff"
     },
     "PrtSc\n\n\n\nSys Rq",
@@ -76,7 +76,7 @@
     "Check\n\n\n\nHome",
     "Store Charge\n\n\n\nPgUp",
     {
-      "x": 1.25,
+      "x": 0.25,
       "c": "#ffff22"
     },
     "Quantity",
@@ -113,7 +113,7 @@
     "Visa\n\n\n\nEnd",
     "Other Payment\n\n\n\nPgDn",
     {
-      "x": 3.25,
+      "x": 2.25,
       "c": "#de3612",
       "h": 2
     },
