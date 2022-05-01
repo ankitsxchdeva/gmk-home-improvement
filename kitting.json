@@ -1,0 +1,130 @@
+[
+  [
+    {
+      "c": "#de3612"
+    },
+    "Help\n\n\n\nEsc",
+    {
+      "x": 1,
+      "c": "#ffff22"
+    },
+    "Lawn & Garden\n\n\n\nF1",
+    "Plumbing\n\n\n\nF2",
+    "Electrical\n\n\n\nF3",
+    "Lumber\n\n\n\nF4",
+    {
+      "x": 0.25
+    },
+    "Hardware\n\n\n\nF5",
+    "MASTER GRID\n\n\n\nF6",
+    {
+      "c": "#de3612"
+    },
+    "Mgr\n\n\n\nF7",
+    {
+      "c": "#278bf5"
+    },
+    "Inquire\n\n\n\nF8",
+    {
+      "x": 0.25
+    },
+    "Option\n\n\n\nF9",
+    {
+      "c": "#de3612"
+    },
+    "Void\n\n\n\nF10",
+    {
+      "c": "#f47517"
+    },
+    "Suspend",
+    {
+      "x": 1.25,
+      "c": "#ffffff"
+    },
+    "PrtSc\n\n\n\nSys Rq",
+    {
+      "x": 1
+    },
+    "Pause\n\n\n\nBreak"
+  ],
+  [
+    {
+      "y": 1,
+      "c": "#278bf5"
+    },
+    "Returns",
+    "Paid Out\n\n\n\n1",
+    "Special Order\n\n\n\n2",
+    "Lay- away\n\n\n\n3",
+    "Rental\n\n\n\n4",
+    "Service Labor\n\n\n\n5",
+    "Service Parts\n\n\n\n6",
+    "Cust. Services\n\n\n\n7",
+    "Rain Check\n\n\n\n8",
+    "Rec'd On Acct.\n\n\n\n9",
+    "Promo\n\n\n\n0",
+    {
+      "c": "#ffff22"
+    },
+    "Tax Rate",
+    "No Tax",
+    {
+      "x": 2.5,
+      "c": "#cccccc"
+    },
+    "Cotter Card\n\n\n\nInsert",
+    "Check\n\n\n\nHome",
+    "Store Charge\n\n\n\nPgUp",
+    {
+      "x": 1.25,
+      "c": "#ffff22"
+    },
+    "Quantity",
+    "Discount",
+    "Repeat"
+  ],
+  [
+    {
+      "c": "#278bf5",
+      "a": 5,
+      "w": 1.5
+    },
+    "VENDOR\n\n\n\nTab",
+    {
+      "x": 10,
+      "c": "#ffff22",
+      "a": 4
+    },
+    "Ret Grid",
+    {
+      "c": "#278bf5"
+    },
+    "DEPT",
+    {
+      "c": "#ffff22",
+      "w": 1.75
+    },
+    "PRICE OVERRIDE",
+    {
+      "x": 0.25,
+      "c": "#cccccc"
+    },
+    "Master Card\n\n\n\nDelete",
+    "Visa\n\n\n\nEnd",
+    "Other Payment\n\n\n\nPgDn",
+    {
+      "x": 3.25,
+      "c": "#de3612",
+      "h": 2
+    },
+    "TOTAL"
+  ],
+  [
+    {
+      "x": 10.75,
+      "c": "#ffff22"
+    },
+    "-",
+    "Net"
+  ]
+]
